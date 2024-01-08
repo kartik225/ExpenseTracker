@@ -1,4 +1,4 @@
-import '../../Random_Password_Genarator/src/css/bootstrap.css'
+
 import { useState, useEffect } from 'react';
 
 function App() {
